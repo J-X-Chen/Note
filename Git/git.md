@@ -1,8 +1,8 @@
 ### 1. 下载
 
 ```bash
-git  clone  https://github.com/用户名/仓库名.git
-cd  仓库名
+git clone https://github.com/用户名/仓库名.git
+cd 仓库名
 ```
 
 **先删除文件夹下的.git, .gitmodules ! ! !**
@@ -32,9 +32,9 @@ git branch
 
 ### 5. 添加与上传
 ```bash
-git  add  .
-git  commit  -m  "update"
-git  push  origin  feature/新分支
+git add .
+git commit -m "update"
+git push origin feature/新分支
 ```
 
 ### 6. 合并rp(要权限)
@@ -43,9 +43,9 @@ git  push  origin  feature/新分支
 ### 其他删除操作
 - 删除内容
 ```bash
-git  rm  要删除的文件夹/  -r  --cached
-git  commit  -m  "delate"
-git  push  origin  feature/新分支
+git rm 要删除的文件夹/  -r  --cached
+git commit -m "delate"
+git push origin feature/新分支
 ```
 
 ### Github官方建议
@@ -64,5 +64,5 @@ git branch -M main
 git push -u origin main
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1MDA5NDJdfQ==
+eyJoaXN0b3J5IjpbMTI5ODA4NDIxMl19
 -->
