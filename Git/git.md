@@ -8,25 +8,25 @@ cd  仓库名
 **先删除文件夹下的.git, .gitmodules ! ! !**
 ```bash
 #查看
-ls  -A
+ls -A
 ```
 
 ### 2. 登入
 ```bash
-git  config  --global  user.name  "J-X-Chen"
-git  config  --global  user.email  "1193739898@qq.com"
+git config --global user.name "J-X-Chen"
+git config --global user.email "1193739898@qq.com"
 ```
 
 ### 3. 更新仓库(拉最新的)
 ```bash
-git  pull  origin  main
+git pull origin main
 ```
  
 ### 4. 创建分支
 ```bash
-git  branch  feature/新分支
-git  checkout  feature/新分支
-git  branch
+git branch feature/新分支
+git checkout feature/新分支
+git branch
 #看是否切换到新分支上
 ```
 
@@ -49,14 +49,20 @@ git  push  origin  feature/新分支
 ```
 
 ### Github官方建议
+```bash
 echo "# Note" >> README.md 
 git init git add README.md 
 git commit -m "first commit" 
 git branch -M main 
 git remote add origin https://github.com/J-X-Chen/Note.git 
 git push -u origin main 
+
+or 
+
 git remote add origin https://github.com/J-X-Chen/Note.git 
-git branch -M main git push -u origin main
+git branch -M main 
+git push -u origin main
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDY2MDU0OV19
+eyJoaXN0b3J5IjpbLTE5MTY1MDA5NDJdfQ==
 -->
