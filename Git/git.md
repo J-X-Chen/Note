@@ -43,7 +43,7 @@ git push origin feature/新分支
 ### 其他删除操作
 - 删除内容
 ```bash
-git rm 要删除的文件夹/  -r  --cached
+git rm 要删除的文件夹/ -r --cached
 git commit -m "delate"
 git push origin feature/新分支
 ```
@@ -64,5 +64,5 @@ git branch -M main
 git push -u origin main
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODA4NDIxMl19
+eyJoaXN0b3J5IjpbMTUzNDAwNjE1NF19
 -->
