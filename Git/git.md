@@ -63,6 +63,22 @@ git remote add origin https://github.com/J-X-Chen/Note.git
 git branch -M main 
 git push -u origin main
 ```
+
+### 补充
+
+```Plain
+git clone <repo>
+git pull
+git checkout <branch>
+git checkout -b <new_branch>
+git status
+git diff
+git add <files/folders>
+git diff --cached
+git push
+git merge
+git rebase # better choice than "git merge"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDAwNjE1NF19
+eyJoaXN0b3J5IjpbLTMxNjg0NjEyLDE1MzQwMDYxNTRdfQ==
 -->
