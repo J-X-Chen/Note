@@ -6,88 +6,47 @@ cd  仓库名
 ```
 
 **先删除文件夹下的.git, .gitmodules ! ! !**
-
 ```bash
-
 #查看
-
 ls  -A
-
 ```
-
-  
 
 ### 2. 登入
-
 ```bash
-
 git  config  --global  user.name  "J-X-Chen"
-
 git  config  --global  user.email  "1193739898@qq.com"
-
 ```
-
-  
 
 ### 3. 更新仓库(拉最新的)
-
 ```bash
-
 git  pull  origin  main
-
 ```
-
-  
-
+ 
 ### 4. 创建分支
-
 ```bash
-
 git  branch  feature/新分支
-
 git  checkout  feature/新分支
-
 git  branch
-
 #看是否切换到新分支上
-
 ```
-
-  
 
 ### 5. 添加与上传
-
 ```bash
-
 git  add  .
-
 git  commit  -m  "update"
-
 git  push  origin  feature/新分支
-
 ```
-
-  
 
 ### 6. 合并rp(要权限)
-
 该过程在网页一直merge即可
-
   
-
 ### 其他删除操作
-
 - 删除内容
-
 ```bash
-
 git  rm  要删除的文件夹/  -r  --cached
-
 git  commit  -m  "delate"
-
 git  push  origin  feature/新分支
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDAzNjI1MV19
+eyJoaXN0b3J5IjpbLTYzNjg3NTQ0NV19
 -->
