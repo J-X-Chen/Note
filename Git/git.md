@@ -47,6 +47,16 @@ git  rm  要删除的文件夹/  -r  --cached
 git  commit  -m  "delate"
 git  push  origin  feature/新分支
 ```
+
+### Github官方建议
+echo "# Note" >> README.md 
+git init git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/J-X-Chen/Note.git 
+git push -u origin main 
+git remote add origin https://github.com/J-X-Chen/Note.git 
+git branch -M main git push -u origin main
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjg3NTQ0NV19
+eyJoaXN0b3J5IjpbLTcwNDY2MDU0OV19
 -->
