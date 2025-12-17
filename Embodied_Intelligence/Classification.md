@@ -2,12 +2,17 @@
 
 ## 视觉伺服Visual Servoing
 
-## 模仿学习Imitation Learning
+## IL
 Learning from Demonstration
 
-## 扩散Diffusion 
+## Diffusion 
 
 ## VLA
+
+## RL
+
+## WM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MjA2NDgwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwMDgxODQ2NDUsLTIwODg3NDY2MTJdfQ
+==
 -->
