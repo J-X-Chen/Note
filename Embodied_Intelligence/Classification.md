@@ -1,17 +1,18 @@
-## 传统解析控制Analytical Control
+## Analytical Control
 
-## 视觉伺服Visual Servoing
+## Visual Servoing
 
 ## Imitation Learning
-Learning from Demonstration
+Learning from Demonstration(LfD)
 
 ## Generative Policies
 
 ## VLA
 
-## RL
+## Reinforcement Learning
 
 ## WM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMDUyOTgxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4MTQxMTA4NTYsLTIwODg3NDY2MTJdfQ
+==
 -->
