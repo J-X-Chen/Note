@@ -2,10 +2,10 @@
 
 ## 视觉伺服Visual Servoing
 
-## IL
+## Imitation Learning
 Learning from Demonstration
 
-## Diffusion 
+## Generative Policies
 
 ## VLA
 
@@ -13,6 +13,5 @@ Learning from Demonstration
 
 ## WM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgxODQ2NDUsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNDIzMDUyOTgxLC0yMDg4NzQ2NjEyXX0=
 -->
