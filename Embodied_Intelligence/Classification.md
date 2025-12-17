@@ -7,7 +7,7 @@ Learning from Demonstration(LfD)
 
 ## Generative Policies
 
-## Vision Language Model
+## Vision Language 
 
 ## Reinforcement Learning
 
@@ -15,5 +15,6 @@ Learning from Demonstration(LfD)
 
 ## Whole-Body Control
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTk0MjY3OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjYyMzk4NTc1LC0yMzE5NDI2NzgsLTIwOD
+g3NDY2MTJdfQ==
 -->
