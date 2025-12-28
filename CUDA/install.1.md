@@ -16,15 +16,14 @@ cat /home/hill123/cuda_file/cuda-12.6/include/cudnn_version.h | grep CUDNN_MAJOR
 	
 [conda内cuda](https://blog.csdn.net/weixin_44007713/article/details/136475398)
 镜像站安装torch: 
--i +  [清华源](https://pypi.tuna.tsinghua.edu.cn/simple) 
+1. -i  [清华源](https://pypi.tuna.tsinghua.edu.cn/simple) 
+2. -i [阿里](https://mirrors.aliyun.com/pypi/simple/)
+3. [手动装包](https://blog.csdn.net/weixin_48766549/article/details/140928783)
+4. pytorch对应 -c [清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/)
 
--i + [阿里](https://mirrors.aliyun.com/pypi/simple/)
-[手动装包](https://blog.csdn.net/weixin_48766549/article/details/140928783)
-pytorch: -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
-
-xformers: https://blog.csdn.net/m0_46437343/article/details/139738920
-
-github_ssh: https://blog.csdn.net/weixin_44078475/article/details/141649437
+其他
+[xformers](https://blog.csdn.net/m0_46437343/article/details/139738920)
+[github_ssh](https://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTcwMDg3XX0=
+eyJoaXN0b3J5IjpbNTE2Mzk1MDI2XX0=
 -->
