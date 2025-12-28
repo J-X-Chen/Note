@@ -1,14 +1,14 @@
-cuda/cudnn: 安装](https://blog.csdn.net/2302_79753801/article/details/143031547
-	https://blog.csdn.net/qq_45461410/article/details/141427213
-	https://blog.csdn.net/weixin_61663117/article/details/149194285
+[cuda/cudnn安装1](https://blog.csdn.net/2302_79753801/article/details/143031547)
+[cuda/cudnn安装2](https://blog.csdn.net/qq_45461410/article/details/141427213)
+[更改安装路径](https://blog.csdn.net/weixin_61663117/article/details/149194285)
 	
-
+```bash
 sudo cp cudnn-linux-x86_64-8.9.3.28_cuda12-archive/include/* ./cuda-12.6/include
 sudo cp cudnn-linux-x86_64-8.9.3.28_cuda12-archive/lib/libcudnn* ./cuda-12.6/lib64
 
 sudo cp cudnn-linux-x86_64-8.9.7.29_cuda11-archive/include/* ./cuda-11.3/include
 sudo cp cudnn-linux-x86_64-8.9.7.29_cuda11-archive/lib/libcudnn* ./cuda-11.3/lib64
-
+#测试
 cat /usr/local/cuda-11.7/include/cudnn_version.h | grep CUDNN_MAJOR -A 2
 cat /home/hill123/cuda_file/cuda-12.6/include/cudnn_version.h | grep CUDNN_MAJOR -A 2
 ```
@@ -26,6 +26,6 @@ torch安装cuda/cudnn:
 [xformers]( tps://blog.csdn.net/m0_46437343/article/details/139738920)
 [github_ssh](https://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYyMTAxOTIsLTE4ODgxMDA0NjIsNT
+eyJoaXN0b3J5IjpbLTE1OTU4MTE5NDAsLTE4ODgxMDA0NjIsNT
 kzMDIxMjEyXX0=
 -->
