@@ -1,4 +1,4 @@
-cuda/cudnn: https://blog.csdn.net/2302_79753801/article/details/143031547
+cuda/cudnn: 安装](https://blog.csdn.net/2302_79753801/article/details/143031547
 	https://blog.csdn.net/qq_45461410/article/details/141427213
 	https://blog.csdn.net/weixin_61663117/article/details/149194285
 	
@@ -14,13 +14,13 @@ cat /home/hill123/cuda_file/cuda-12.6/include/cudnn_version.h | grep CUDNN_MAJOR
 
 	
 conda内cuda https://blog.csdn.net/weixin_44007713/article/details/136475398
-torch: -i https://pypi.tuna.tsinghua.edu.cn/simple 或 https://mirrors.aliyun.com/pypi/simple/
-	阿里源：https://blog.csdn.net/weixin_48766549/article/details/140928783  (手动装包)
-pytorch: -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+torch: ： ```-i https://pypi.tuna.tsinghua.edu.cn/simple 或```
+2. 阿里：``` -i https://mirrors.aliyun.com/pypi/simple/
+	阿里源：```
+3. -i https://blog.csdn.net/weixin_48766549/article/details/140928783  (手动装包)
+pytorch: 对```-c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
 
-xformers: https://blog.csdn.net/m0_46437343/article/details/139738920
-
-github_ssh: https://blog.csdn.net/weixin_44078475/article/details/141649437
+```xformers: ](tps://blog.csdn.net/m0_46437343/article/details/139738920github_sshhttps://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDIxMjEyXX0=
+eyJoaXN0b3J5IjpbLTE4ODgxMDA0NjIsNTkzMDIxMjEyXX0=
 -->
