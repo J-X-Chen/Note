@@ -11,21 +11,21 @@ sudo cp cudnn-linux-x86_64-8.9.7.29_cuda11-archive/lib/libcudnn* ./cuda-11.3/lib
 
 cat /usr/local/cuda-11.7/include/cudnn_version.h | grep CUDNN_MAJOR -A 2
 cat /home/hill123/cuda_file/cuda-12.6/include/cudnn_version.h | grep CUDNN_MAJOR -A 2
+```
 
 	
-conda内cuda https://blog.csdn.net/weixin_44007713/article/details/136475398
+[conda内cuda](https://blog.csdn.net/weixin_44007713/article/details/136475398)
 
-
-torch安装:
-1. 清华： -```-i https://pypi.tuna.tsinghua.edu.cn/simple ```
+torch安装cuda/cudnn:
+1. 清华： ```-i https://pypi.tuna.tsinghua.edu.cn/simple ```
 2. 阿里：```-i https://mirrors.aliyun.com/pypi/simple/```
-3.-i https://blog.csdn.net/weixin_48766549/article/details/140928783  (手动装包)
-pytorch对应：```-c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/```
+3. [手动装包](https://blog.csdn.net/weixin_48766549/article/details/140928783)
+4. pytorch对应：```-c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/```
 
 其他
 [xformers]( tps://blog.csdn.net/m0_46437343/article/details/139738920)
 [github_ssh](https://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEzNjcwNTQsLTE4ODgxMDA0NjIsNT
+eyJoaXN0b3J5IjpbLTEwNDYyMTAxOTIsLTE4ODgxMDA0NjIsNT
 kzMDIxMjEyXX0=
 -->
