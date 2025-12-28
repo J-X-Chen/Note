@@ -5,7 +5,7 @@
 ```bash
 sudo cp cudnn-linux-x86_64-8.9.3.28_cuda12-archive/include/* ./cuda-12.6/include
 sudo cp cudnn-linux-x86_64-8.9.3.28_cuda12-archive/lib/libcudnn* ./cuda-12.6/lib64
-
+#或(自己改对应版本)
 sudo cp cudnn-linux-x86_64-8.9.7.29_cuda11-archive/include/* ./cuda-11.3/include
 sudo cp cudnn-linux-x86_64-8.9.7.29_cuda11-archive/lib/libcudnn* ./cuda-11.3/lib64
 #测试
@@ -26,6 +26,6 @@ torch安装cuda/cudnn:
 [xformers](https://blog.csdn.net/m0_46437343/article/details/139738920)
 [github_ssh](https://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5ODkzNTQsLTE4ODgxMDA0NjIsNTkzMD
-IxMjEyXX0=
+eyJoaXN0b3J5IjpbLTU2MTcxOTAzLC0xODg4MTAwNDYyLDU5Mz
+AyMTIxMl19
 -->
