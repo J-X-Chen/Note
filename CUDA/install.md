@@ -23,9 +23,9 @@ torch安装cuda/cudnn:
 4. pytorch对应：```-c https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/```
 
 其他
-[xformers]( tps://blog.csdn.net/m0_46437343/article/details/139738920)
+[xformers](https://blog.csdn.net/m0_46437343/article/details/139738920)
 [github_ssh](https://blog.csdn.net/weixin_44078475/article/details/141649437)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU4MTE5NDAsLTE4ODgxMDA0NjIsNT
-kzMDIxMjEyXX0=
+eyJoaXN0b3J5IjpbNTA5ODkzNTQsLTE4ODgxMDA0NjIsNTkzMD
+IxMjEyXX0=
 -->
